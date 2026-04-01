@@ -1,0 +1,13 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/AuthService" />
+    <file type="web" url="file://$PROJECT_DIR$/DiscoveryService" />
+    <file type="web" url="file://$PROJECT_DIR$/FeedService" />
+    <file type="web" url="file://$PROJECT_DIR$/GatewayService" />
+    <file type="web" url="file://$PROJECT_DIR$/PostService" />
+  </component>
+  <component name="ProjectRootManager" version="2">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

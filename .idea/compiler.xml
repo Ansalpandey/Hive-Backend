@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Auth-Service" target="21" />
+      <module name="Auth-Service.main" target="21" />
+      <module name="Auth-Service.test" target="21" />
+      <module name="DiscoveryService" target="21" />
+      <module name="DiscoveryService.main" target="21" />
+      <module name="DiscoveryService.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Auth-Service" options="-parameters" />
+      <module name="Auth-Service.main" options="-parameters" />
+      <module name="Auth-Service.test" options="-parameters" />
+      <module name="AuthService" options="-parameters" />
+      <module name="AuthService.main" options="-parameters" />
+      <module name="AuthService.test" options="-parameters" />
+      <module name="DiscoveryService" options="-parameters" />
+      <module name="DiscoveryService.main" options="-parameters" />
+      <module name="DiscoveryService.test" options="-parameters" />
+      <module name="FeedService" options="-parameters" />
+      <module name="FeedService.main" options="-parameters" />
+      <module name="FeedService.test" options="-parameters" />
+      <module name="GatewayService" options="-parameters" />
+      <module name="GatewayService.main" options="-parameters" />
+      <module name="GatewayService.test" options="-parameters" />
+      <module name="PostService" options="-parameters" />
+      <module name="PostService.main" options="-parameters" />
+      <module name="PostService.test" options="-parameters" />
+    </option>
+  </component>
+</project>
