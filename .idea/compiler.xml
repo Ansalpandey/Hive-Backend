@@ -1,20 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.44/503fd0b002dbb237fa4656cf4b8021666a8aebac/lombok-1.18.44.jar" />
+        </processorPath>
+        <module name="PostService.test" />
+        <module name="PostService.main" />
+      </profile>
+    </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Auth" target="21" />
       <module name="Auth-Service" target="21" />
       <module name="Auth-Service.main" target="21" />
       <module name="Auth-Service.test" target="21" />
+      <module name="Auth.main" target="21" />
+      <module name="Auth.test" target="21" />
       <module name="DiscoveryService" target="21" />
       <module name="DiscoveryService.main" target="21" />
       <module name="DiscoveryService.test" target="21" />
+      <module name="Gateway" target="21" />
+      <module name="Gateway.main" target="21" />
+      <module name="Gateway.test" target="21" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Auth" options="-parameters" />
       <module name="Auth-Service" options="-parameters" />
       <module name="Auth-Service.main" options="-parameters" />
       <module name="Auth-Service.test" options="-parameters" />
+      <module name="Auth.main" options="-parameters" />
+      <module name="Auth.test" options="-parameters" />
       <module name="AuthService" options="-parameters" />
       <module name="AuthService.main" options="-parameters" />
       <module name="AuthService.test" options="-parameters" />
@@ -24,6 +43,9 @@
       <module name="FeedService" options="-parameters" />
       <module name="FeedService.main" options="-parameters" />
       <module name="FeedService.test" options="-parameters" />
+      <module name="Gateway" options="-parameters" />
+      <module name="Gateway.main" options="-parameters" />
+      <module name="Gateway.test" options="-parameters" />
       <module name="GatewayService" options="-parameters" />
       <module name="GatewayService.main" options="-parameters" />
       <module name="GatewayService.test" options="-parameters" />

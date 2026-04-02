@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a742b109-482b-43a1-a568-ceff55989c52" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Social-Media.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deviceManager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ktfmt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/PostService.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/AuthController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/AuthServiceApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/JwtFilter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/JwtUtil.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/LoginRequest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/LoginResponse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/SecurityConfig.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/UserModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/UserRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/UserService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/test/kotlin/com/app/googlegithublogin/AuthServiceApplicationTests.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FeedService/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FeedService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FeedService/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FeedService/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FeedService/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FeedService/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FeedService/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FeedService/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FeedService/src/main/kotlin/com/squareup/digital/FeedServiceApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FeedService/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FeedService/src/test/kotlin/com/squareup/digital/FeedServiceApplicationTests.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GatewayService/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/GatewayService/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GatewayService/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/GatewayService/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GatewayService/src/main/kotlin/com/squareup/digital/GatewayServiceApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GatewayService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/GatewayService/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GatewayService/src/test/kotlin/com/squareup/digital/GatewayServiceApplicationTests.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostService/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostService/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostService/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostService/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostService/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostService/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostService/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostService/src/main/kotlin/com/squareup/digital/PostServiceApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostService/src/main/kotlin/com/squareup/digital/controller/PostController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostService/src/main/kotlin/com/squareup/digital/dto/CreatePostDto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostService/src/main/kotlin/com/squareup/digital/models/PostModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostService/src/main/kotlin/com/squareup/digital/repository/PostRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostService/src/main/kotlin/com/squareup/digital/service/PostService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostService/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostService/src/test/kotlin/com/squareup/digital/PostServiceApplicationTests.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/Auth">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/AuthService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/DiscoveryService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/FeedService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Gateway">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/GatewayService">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/PostService">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ansalpandey&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ansalpandey/Hive-Backend.git&quot;,
+    &quot;accountId&quot;: &quot;34dcfb7b-df69-4976-a220-59cbdfce36b5&quot;
+  }
+}</component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$/AuthService" gradleHome="C:\Users\pande\.gradle\wrapper\dists\gradle-8.14.2-bin\2pb3mgt1p815evrl3weanttgr\gradle-8.14.2" javaHome="C:\Program Files\Java\jdk-21" gradleVersion="8.14.2" />
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3BWC1EhCZlOC14xxyY9TKZ0voKL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build Auth.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build AuthService.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build DiscoveryService.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build FeedService.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build GatewayService.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build PostService.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-DatabaseConfigFileWatcher.found&quot;: &quot;New/updated database configurations found&quot;,
+    &quot;Notification.DoNotAsk-DatabaseConfigFileWatcher.found&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.AuthApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.AuthServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.DiscoveryServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.FeedServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.GatewayServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.GoogleGitHubLoginApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.PostServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\Hive-Backend\AuthService\src\main\java\com\squareup\digital" />
+      <recent name="D:\Work\Hive-Backend\AuthService\src\main\java" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.squareup.digital" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AuthServiceApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Hive-Backend" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Hive-Backend" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AuthServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="AuthService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.squareup.digital.AuthServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.squareup.digital.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeedServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="FeedService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.squareup.digital.FeedServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="GatewayService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.squareup.digital.GatewayServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.squareup.digital.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="PostService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.squareup.digital.PostServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GatewayServiceApplication" />
+        <item itemvalue="Spring Boot.AuthServiceApplication" />
+        <item itemvalue="Spring Boot.AuthServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Logical" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a742b109-482b-43a1-a568-ceff55989c52" name="Changes" comment="" />
+      <created>1774595222294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774595222294</updated>
+      <workItem from="1774595223440" duration="163000" />
+      <workItem from="1774595639256" duration="1194000" />
+      <workItem from="1774620141115" duration="3092000" />
+      <workItem from="1774623688096" duration="3825000" />
+      <workItem from="1774683216106" duration="1653000" />
+      <workItem from="1774711063726" duration="1293000" />
+      <workItem from="1774712570577" duration="1669000" />
+      <workItem from="1774764360849" duration="252000" />
+      <workItem from="1774880186319" duration="5897000" />
+      <workItem from="1774890806552" duration="1455000" />
+      <workItem from="1774931269043" duration="1663000" />
+      <workItem from="1774946218265" duration="1948000" />
+      <workItem from="1774966396095" duration="3799000" />
+      <workItem from="1775046757609" duration="1001000" />
+      <workItem from="1775047999081" duration="4141000" />
+      <workItem from="1775136953843" duration="1560000" />
+      <workItem from="1775138550884" duration="558000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1775047573898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775047573898</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/FeedService" />
+      <path value="$PROJECT_DIR$/GatewayService" />
+      <path value="$PROJECT_DIR$/PostService" />
+    </ignored-roots>
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+</project>
