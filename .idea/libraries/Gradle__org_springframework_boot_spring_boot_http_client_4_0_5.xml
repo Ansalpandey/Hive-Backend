@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-http-client:4.0.5" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.springframework.boot" artifactId="spring-boot-http-client" version="4.0.5" baseVersion="4.0.5" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-http-client/4.0.5/bbe879de6624a596a41de0c4cb1df5c767b5533f/spring-boot-http-client-4.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-http-client/4.0.5/e9668fd81d937ef96ccf30d14c85918159ce6e72/spring-boot-http-client-4.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

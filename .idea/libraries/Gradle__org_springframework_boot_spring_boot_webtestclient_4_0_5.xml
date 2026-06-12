@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-webtestclient:4.0.5" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.springframework.boot" artifactId="spring-boot-webtestclient" version="4.0.5" baseVersion="4.0.5" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-webtestclient/4.0.5/52082135c32afcb7aa6c1711209f75fa5b08ad01/spring-boot-webtestclient-4.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-webtestclient/4.0.5/ccf71afd12c1c47e1a7c8997f444b0ef8f83ad54/spring-boot-webtestclient-4.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

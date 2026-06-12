@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-gateway-server-webflux:5.0.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.springframework.cloud" artifactId="spring-cloud-gateway-server-webflux" version="5.0.1" baseVersion="5.0.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-gateway-server-webflux/5.0.1/ec6e6964619cb11feb1f3e670f0f386867705ecb/spring-cloud-gateway-server-webflux-5.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-gateway-server-webflux/5.0.1/84b18028de1280d7e63e501e7fe5605c5f412f99/spring-cloud-gateway-server-webflux-5.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

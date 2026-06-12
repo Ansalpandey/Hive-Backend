@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="FeedService" external.linked.project.path="$MODULE_DIR$/../../FeedService" external.root.project.path="$MODULE_DIR$/../../FeedService" external.system.id="GRADLE" external.system.module.group="com.squareup.digital" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_21" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../FeedService">
+      <excludeFolder url="file://$MODULE_DIR$/../../FeedService/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FeedService/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="21" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

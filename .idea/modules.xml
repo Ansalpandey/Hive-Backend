@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AuthService.iml" filepath="$PROJECT_DIR$/.idea/modules/AuthService.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AuthService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AuthService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AuthService.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AuthService.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FeedService.iml" filepath="$PROJECT_DIR$/.idea/modules/FeedService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FeedService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FeedService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FeedService.test.iml" filepath="$PROJECT_DIR$/.idea/modules/FeedService.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GatewayService.iml" filepath="$PROJECT_DIR$/.idea/modules/GatewayService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GatewayService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GatewayService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GatewayService.test.iml" filepath="$PROJECT_DIR$/.idea/modules/GatewayService.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Hive-Backend.iml" filepath="$PROJECT_DIR$/.idea/Hive-Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PostService.iml" filepath="$PROJECT_DIR$/.idea/modules/PostService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PostService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PostService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PostService.test.iml" filepath="$PROJECT_DIR$/.idea/modules/PostService.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.squareup.digital.AuthService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.squareup.digital.AuthService.main.iml" />
     </modules>
   </component>
 </project>

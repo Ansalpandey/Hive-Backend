@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-webflux-test:4.0.5" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.springframework.boot" artifactId="spring-boot-webflux-test" version="4.0.5" baseVersion="4.0.5" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-webflux-test/4.0.5/6952ff46b12619816373ecb64d5cafb159b3b018/spring-boot-webflux-test-4.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-webflux-test/4.0.5/2705cb4100276db822f1a4712ba5bd01178fda2a/spring-boot-webflux-test-4.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

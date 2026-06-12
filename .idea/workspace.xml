@@ -5,75 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a742b109-482b-43a1-a568-ceff55989c52" name="Changes" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AndroidProjectSystem.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Social-Media.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deviceManager.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ktfmt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/PostService.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AuthService/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/AuthController.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/AuthServiceApplication.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/JwtFilter.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/JwtUtil.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/LoginRequest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/LoginResponse.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/SecurityConfig.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/UserModel.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/UserRepository.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/src/main/kotlin/com/squareup/digital/UserService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/java/com/squareup/digital/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/src/main/java/com/squareup/digital/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/java/com/squareup/digital/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/src/main/java/com/squareup/digital/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/java/com/squareup/digital/dto/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/src/main/java/com/squareup/digital/dto/LoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/java/com/squareup/digital/dto/LoginResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/src/main/java/com/squareup/digital/dto/LoginResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/java/com/squareup/digital/filter/JwtFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/src/main/java/com/squareup/digital/filter/JwtFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/java/com/squareup/digital/model/UserModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/src/main/java/com/squareup/digital/model/UserModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/java/com/squareup/digital/repository/AuthRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/src/main/java/com/squareup/digital/repository/AuthRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/java/com/squareup/digital/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/src/main/java/com/squareup/digital/service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/java/com/squareup/digital/utils/JwtUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/src/main/java/com/squareup/digital/utils/JwtUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AuthService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/src/test/kotlin/com/app/googlegithublogin/AuthServiceApplicationTests.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeedService/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeedService/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeedService/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeedService/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeedService/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeedService/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeedService/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeedService/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeedService/src/main/kotlin/com/squareup/digital/FeedServiceApplication.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeedService/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeedService/src/test/kotlin/com/squareup/digital/FeedServiceApplicationTests.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GatewayService/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/GatewayService/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FeedService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/FeedService/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GatewayService/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/GatewayService/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GatewayService/src/main/kotlin/com/squareup/digital/GatewayServiceApplication.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/GatewayService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/GatewayService/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GatewayService/src/test/kotlin/com/squareup/digital/GatewayServiceApplicationTests.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostService/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostService/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostService/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostService/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostService/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostService/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostService/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostService/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostService/src/main/kotlin/com/squareup/digital/PostServiceApplication.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostService/src/main/kotlin/com/squareup/digital/controller/PostController.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostService/src/main/kotlin/com/squareup/digital/dto/CreatePostDto.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostService/src/main/kotlin/com/squareup/digital/models/PostModel.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostService/src/main/kotlin/com/squareup/digital/repository/PostRepository.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostService/src/main/kotlin/com/squareup/digital/service/PostService.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostService/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostService/src/test/kotlin/com/squareup/digital/PostServiceApplicationTests.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/PostService/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Work/Hive-Backend" value="3BWC1EhCZlOC14xxyY9TKZ0voKL" />
+    </persistenceIdMap>
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/Auth">
@@ -187,7 +146,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;google-java-format.settings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -222,7 +181,7 @@
       <method v="2" />
     </configuration>
     <configuration name="AuthServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="AuthService.main" />
+      <module name="com.squareup.digital.AuthService.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.squareup.digital.AuthServiceApplication" />
       <extension name="coverage">
         <pattern>
@@ -263,8 +222,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.GatewayServiceApplication" />
         <item itemvalue="Spring Boot.AuthServiceApplication" />
+        <item itemvalue="Spring Boot.GatewayServiceApplication" />
         <item itemvalue="Spring Boot.AuthServiceApplication" />
       </list>
     </recent_temporary>
@@ -304,6 +263,11 @@
       <workItem from="1775047999081" duration="4141000" />
       <workItem from="1775136953843" duration="1560000" />
       <workItem from="1775138550884" duration="558000" />
+      <workItem from="1776925119224" duration="5971000" />
+      <workItem from="1776951890044" duration="919000" />
+      <workItem from="1777041259319" duration="305000" />
+      <workItem from="1777041672667" duration="460000" />
+      <workItem from="1777131915508" duration="340000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -327,5 +291,14 @@
     </ignored-roots>
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
